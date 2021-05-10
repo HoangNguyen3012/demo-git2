@@ -3,3 +3,10 @@ ctrl + ~ to open terminal
 git init create a local repository for git
 git status to check git file location
 git add + file name to add changed file to staging area or + . to add all files
+git rm to remove file(s) from staging back to working directory
+git config --global user.email "email@example" to call up your email
+git config --global user.name "your name" to set up your name, which can be different from github
+git commit -m "message" to add changed files to local repository (git directory)
+git log to check changed files' content
+git remotr add origin + https: to connect to git files locally and globally
+git push to upload local codes to global files
