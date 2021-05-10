@@ -1,0 +1,5 @@
+git clone: clone the project from git
+ctrl + ~ to open terminal
+git init create a local repository for git
+git status to check git file location
+git add + file name to add changed file to staging area or + . to add all files
